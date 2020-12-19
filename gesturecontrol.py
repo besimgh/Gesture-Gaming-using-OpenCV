@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul 21 20:42:01 2020
-@author: Gnana Murthiy
+Created on Saturday 19.12.2020 20:58:02 2020
+@author: Besim Ismaili
 @description: Game controlling with Fists in Navy blue gloves using openCV. Left Fist- Break Righ Fist- acceleration
 This code is inspired by a project, by Patel Digant: https://github.com/pateldigant/gesture-gaming-python 
 Custom Logic was written to handle both the keys simultaneously for gaming requirements.
